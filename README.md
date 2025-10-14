@@ -1,0 +1,1 @@
+This is a repository I created for hosting domains that I want blocked on my browsers.
