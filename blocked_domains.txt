@@ -1,6 +1,0 @@
-! Keywords:
-||*crypto*
-
-! Domains:
-||coinvase.com^
-||x.com^
