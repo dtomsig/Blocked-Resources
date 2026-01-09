@@ -108,6 +108,7 @@ duckduckgo.com##a[href*="nypost.com"]:upward(li):remove()
 duckduckgo.com##a[href*="oanda.com"]:upward(li):remove()
 duckduckgo.com##a[href*="onesafe.io"]:upward(li):remove()
 duckduckgo.com##a[href*="opensea.io"]:upward(li):remove()
+duckduckgo.com##a[href*="pinterest.com"]:upward(li):remove()
 duckduckgo.com##a[href*="polymarket.com"]:upward(li):remove()
 duckduckgo.com##a[href*="predictionnewsnetwork.com"]:upward(li):remove()
 duckduckgo.com##a[href*="predictit.org"]:upward(li):remove()
@@ -127,6 +128,7 @@ duckduckgo.com##a[href*="sofi.com"]:upward(li):remove()
 duckduckgo.com##a[href*="spotify.com"]:upward(li):remove()
 duckduckgo.com##a[href*="stockscan.io"]:upward(li):remove()
 duckduckgo.com##a[href*="stockstotrade.com"]:upward(li):remove()
+duckduckgo.com##a[href*="stocktitan.net"]:upward(li):remove()
 duckduckgo.com##a[href*="substack.com"]:upward(li):remove()
 duckduckgo.com##a[href*="thebitcoinmanual.com"]:upward(li):remove()
 duckduckgo.com##a[href*="thecoinomist.com"]:upward(li):remove()
@@ -253,6 +255,7 @@ google.com##a[href*="nypost.com"]:upward(4):remove()
 google.com##a[href*="oanda.com"]:upward(4):remove()
 google.com##a[href*="onesafe.io"]:upward(4):remove()
 google.com##a[href*="opensea.io"]:upward(4):remove()
+google.com##a[href*="pinterest.com"]:upward(4):remove()
 google.com##a[href*="polymarket.com"]:upward(4):remove()
 google.com##a[href*="predictionnewsnetwork.com"]:upward(4):remove()
 google.com##a[href*="predictit.org"]:upward(4):remove()
@@ -272,6 +275,7 @@ google.com##a[href*="sofi.com"]:upward(4):remove()
 google.com##a[href*="spotify.com"]:upward(4):remove()
 google.com##a[href*="stockscan.io"]:upward(4):remove()
 google.com##a[href*="stockstotrade.com"]:upward(4):remove()
+google.com##a[href*="stocktitan.net"]:upward(4):remove()
 google.com##a[href*="substack.com"]:upward(4):remove()
 google.com##a[href*="thebitcoinmanual.com"]:upward(4):remove()
 google.com##a[href*="thecoinomist.com"]:upward(4):remove()
@@ -398,6 +402,7 @@ google.com##a[href*="zacks.com"]:upward(4):remove()
 ||oanda.com^
 ||onesafe.io^
 ||opensea.io^
+||pinterest.com^
 ||polymarket.com^
 ||predictionnewsnetwork.com^
 ||predictit.org^
@@ -417,6 +422,7 @@ google.com##a[href*="zacks.com"]:upward(4):remove()
 ||spotify.com^
 ||stockscan.io^
 ||stockstotrade.com^
+||stocktitan.net^
 ||substack.com^
 ||thebitcoinmanual.com^
 ||thecoinomist.com^
